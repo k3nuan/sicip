@@ -1,0 +1,11 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+// #D51C28 #EE0808 #A50000 #DADADA #FFFFFF
+
+$primary: #D51C28;
+
+//$theme-colors: (
+//	"primary": #D51C28,
+//);
+
+@import "node_modules/bootstrap/scss/bootstrap";

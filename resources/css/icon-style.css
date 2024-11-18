@@ -1,0 +1,26 @@
+/*Increase the default Icon size*/
+i.ti {
+    font-size: 20px;
+}
+
+/* k3nuan */
+.nav-item.active {
+  background-color: #D51C28;
+  color: white;
+}
+.nav-item.active a, .nav-item.active i {
+  color: white;
+}
+
+.table thead th, .markdown > table thead th {
+    background-color: #A50000 !important;
+    color: white !important;
+}
+
+.tabulator .tabulator-header .tabulator-col .tabulator-col-content {
+    background-color: #A50000 !important;
+    color: white !important;
+}
+#filter-clear {
+    background-color: #A50000 !important;
+}
